@@ -1,0 +1,1 @@
+{ "name": "delega-opencode-tui", "private": true, "scripts": { "test": "node --test" } }

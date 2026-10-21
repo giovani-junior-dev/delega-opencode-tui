@@ -1,0 +1,5 @@
+node_modules/
+.opencode-bridge/
+__pycache__/
+*.pyc
+.DS_Store

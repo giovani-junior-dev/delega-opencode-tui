@@ -1,0 +1,10 @@
+{
+  "name": "delega-opencode-tui",
+  "version": "1.0.0",
+  "description": "Claude Code planeja e revisa, o OpenCode implementa numa TUI que você vê ao vivo. Abre a sessão com nome, envia o pacote, lê o relatório, grava a rubrica e devolve achados até aprovar. /delega-opencode-tui:setup instala o agente e as travas no OpenCode.",
+  "author": { "name": "giovani-junior-dev", "url": "https://github.com/giovani-junior-dev" },
+  "homepage": "https://github.com/giovani-junior-dev/delega-opencode-tui",
+  "repository": "https://github.com/giovani-junior-dev/delega-opencode-tui",
+  "license": "MIT",
+  "keywords": ["opencode", "delegation", "tui", "code-review", "tdd", "agents"]
+}

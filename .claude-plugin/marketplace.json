@@ -1,0 +1,9 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "delega-opencode-tui",
+  "description": "Claude Code como dev sênior, OpenCode como dev: delega tickets para uma TUI do OpenCode que você acompanha ao vivo, revisa e devolve até aprovar.",
+  "owner": { "name": "giovani-junior-dev", "url": "https://github.com/giovani-junior-dev" },
+  "plugins": [
+    { "name": "delega-opencode-tui", "description": "Skill delega-opencode-tui, scripts oc.sh/relatorio.py, agente bridge-dev e travas bridge-guard para o OpenCode.", "source": "./plugin", "category": "productivity" }
+  ]
+}
